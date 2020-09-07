@@ -1,4 +1,5 @@
 # byr_pretty
+byr_pretty is a plugin for tt-rss.
 
 to solve the bad display style of byr.cn BT RSS.
 
